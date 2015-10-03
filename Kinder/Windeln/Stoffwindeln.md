@@ -61,7 +61,9 @@
 
 # Links
 
+* http://www.mamagogik.de/stoffwindeln-im-test-prefolds-ueberhosen-und-nachtwindeln/
 * https://de.wikipedia.org/wiki/Windel
 * https://de.wikipedia.org/wiki/Windeldienst
 * https://www.youtube.com/watch?v=_HUVMxluRrw
 * https://www.youtube.com/watch?v=OLKBioxm6C0
+* http://www.windeln.de/
