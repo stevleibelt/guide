@@ -34,6 +34,80 @@ Es sind insgesammt zwoelf Wochen.
 * Sonntag, ruhiger Dauerlauf gefolgt von 2 Steigerungen
 * Samstag, 5 Kilometer langsamer Dauerlauf
 
+# 30 Minuten laufen ohne Pause (Einsteiger und Anfaenger)
+
+## Erste Woche
+
+* Montag, 20 Minuten zuegiges Gehen
+* Mittwoch, 20 Minuten zuegiges Gehen
+* Samstag, 20 Minuten zuegiges Gehen
+
+## Zweite Woche
+
+* Montag, 30 Minuten zuegiges Gehen
+* Mittwoch, 30 Minuten zuegiges Gehen
+* Samstag, 30 Minuten zuegiges Gehen
+
+## Dritte Woche
+
+* Montag, 5 mal 2 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 4 mal 3 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Samstag, 5 mal 2 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Vierte Woche
+
+* Montag, 4 mal 3 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 3 mal 4 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Samstag, 4 mal 3 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Fuenfte Woche
+
+* Montag, 3 mal 4 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 4 mal 5 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Samstag, 3 mal 4 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Sechste Woche
+
+* Montag, 4 mal 5 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 3 mal 7 Minuten laufen mit jeweils 3 Minuten Gehpause
+* Samstag, 4 mal 5 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Siebte Woche
+
+* Montag, 3 mal 7 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 3 mal 8 Minuten laufen mit jeweils 3 Minuten Gehpause
+* Samstag, 3 mal 7 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Achte Woche
+
+* Montag, 3 mal 8 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 3 mal 9 Minuten laufen mit jeweils 3 Minuten Gehpause
+* Samstag, 3 mal 8 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Neunte Woche
+
+* Montag, 3 mal 9 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 2 mal 10 Minuten laufen mit jeweils 3 Minuten Gehpause
+* Samstag, 3 mal 9 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Zehnte Woche
+
+* Montag, 2 mal 10 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 2 mal 12 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Samstag, 2 mal 10 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Elfte Woche
+
+* Montag, 2 mal 12 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 2 mal 14 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Samstag, 2 mal 12 Minuten laufen mit jeweils 2 Minuten Gehpause
+
+## Zwoelfte Woche
+
+* Montag, 2 mal 15 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Mittwoch, 2 mal 10 Minuten laufen mit jeweils 2 Minuten Gehpause
+* Samstag, 30 Minuten langsamer Dauerlauf
+
 # Fitness verbesser und 30 Minuten laufen (Einsteiger und Anfaenger)
 
 ## Erste Woche
