@@ -1,7 +1,7 @@
 # Schleimlösend
 
 * unterstützt das Abhusten
-* Zwiebelsaft mit Zucker
+* Zwiebelsaft mit Honig
 * viel Wasser trinken
 * Wärme im Brustbereich (steigert die Durchblutung)
 * Tropfen mit Spitzwegerich, Huflattich, Thymian oder Salei (1 Teelöffel auf 1/4 Liter Wasser, ziehen lassen und lauwarm trinken)
