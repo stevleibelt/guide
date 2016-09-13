@@ -10,3 +10,6 @@
     * voll von [Mykotoxin](https://de.wikipedia.org/wiki/Mykotoxin) (Schimmelpilz)
 * Gurken
     * voll von [Pestiziden](https://de.wikipedia.org/wiki/Pestizid)
+* [Industriezucker](https://de.wikipedia.org/wiki/Zucker)
+    * Bezeichnungen wie: Rohrzucker, Rübenzucker, Ahornzucker, Palmzucker, Brauner Zucker, Kandiszucker, Milchzucker, Traubenzucker, Fruchtzucker, Invertzucker
+    * Zucker ist ein Vitamin B Räuber, da viel Vitamin B gebraucht wird um Zucker zu verarbeiten (deswegen fühlt man sich mit Vitamin B Präparaten wieder besser)
