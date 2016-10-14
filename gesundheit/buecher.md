@@ -3,8 +3,9 @@
 * Ärztlicher Rat aus ganzheitlicher Sicht
 * Kleinschriften-Sammelmappe
 * Naturheilkunde
-* Unsere Nahrung, unser Schicksal
-* Band 2    -   Krank durch Stress - die lebens- und spannungsbedingten Krankheiten und ihre Heilung
+* Band 1    -   Unsere Nahrung, unser Schicksal
+* Band 2    -   Lebensbedingte Krankheiten
+* Band 2?   -   Krank durch Stress - die lebens- und spannungsbedingten Krankheiten und ihre Heilung
 * Band 3    -   Schlank ohne zu hungern durch vitalstoffreiche Ernährung
 * Band 4    -   Stuhlverstopfung in 3 Tagen heilbar, ohne Abführmittel
 * Band 7    -   Erkältungen müssen nicht sein
@@ -13,7 +14,6 @@
 * Band x    -   Keine Angst vor Bakterien
 * Band x    -   Krampfader
 * Band x    -   Vorsicht Fluor
-* Band x    -   Lebensbedingte Krankheiten
 * Band x    -   Idealgewicht ohne Hungerkur
 * Band x    -   Osteoporose
 * Band x    -   Rheuma - Ursache und Heilbehandlung
