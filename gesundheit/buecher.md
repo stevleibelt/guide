@@ -12,7 +12,10 @@
 * Band 7    -   Erkältungen müssen nicht sein
 * Band 8    -   Rheuma, Ischias, Arthritis, Arthrose, Ursachen und Heilbehandlung
 * Band 9    -   Biologischer Ratgeber für Mutter und Kind
+* Band 10   -   Diabetes
+* Band 11   -   Allergien müssen nicht sein
 * Band 17   -   Reine Frauensache
+* Band 25   -   Candia albicans - Pilze, Mykosen, Bakterien
 * Band x    -   Keine Angst vor Bakterien
 * Band x    -   Krampfader
 * Band x    -   Vorsicht Fluor
@@ -20,9 +23,7 @@
 * Band x    -   Osteoporose
 * Band x    -   Rheuma - Ursache und Heilbehandlung
 * Band x    -   Leber-, Galle-, Magen-, Darm- und Bauchspeicheldrüsenerkrankungen
-* Band x    -   Diabetes
 * Band x    -   Diäten
-* Band x    -   Allergien müssen nicht sein
 * Band x    -   Zucker-Zucker
 * Band x    -   Kopfschmerzen, Migräne und Schlaflosigkeit
 * Band x    -   Störungen der Schilddrüse
