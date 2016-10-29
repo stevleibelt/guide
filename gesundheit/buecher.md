@@ -4,9 +4,8 @@
 * Kleinschriften-Sammelmappe
 * Naturheilkunde
 * Band 1    -   Unsere Nahrung, unser Schicksal
-* Band 2    -   Lebensbedingte Krankheiten
-* Band 2?   -   Krank durch Stress - die lebens- und spannungsbedingten Krankheiten und ihre Heilung
-* Band 3    -   Schlank ohne zu hungern durch vitalstoffreiche Ernährung
+* Band 2    -   Lebensbedingte Krankheiten / Krank durch Stress - die lebens- und spannungsbedingten Krankheiten und ihre Heilung
+* Band 3    -   Idealgewicht ohne Hungerkur / Schlank ohne zu hungern durch vitalstoffreiche Ernährung
 * Band 4    -   Stuhlverstopfung in 3 Tagen heilbar, ohne Abführmittel
 * Band 5    -   Herzinfarkt - Herz-, Gefäß- und Kreislauferkrankungen
 * Band 7    -   Erkältungen müssen nicht sein
@@ -14,12 +13,14 @@
 * Band 9    -   Biologischer Ratgeber für Mutter und Kind
 * Band 10   -   Diabetes
 * Band 11   -   Allergien müssen nicht sein
+* Band 14   -   Wer Diät isst, wird krank
 * Band 17   -   Reine Frauensache
+* Band 18   -   Reine Männersache
 * Band 25   -   Candia albicans - Pilze, Mykosen, Bakterien
+* Band 30   -   Versöhnung
 * Band x    -   Keine Angst vor Bakterien
 * Band x    -   Krampfader
 * Band x    -   Vorsicht Fluor
-* Band x    -   Idealgewicht ohne Hungerkur
 * Band x    -   Osteoporose
 * Band x    -   Rheuma - Ursache und Heilbehandlung
 * Band x    -   Leber-, Galle-, Magen-, Darm- und Bauchspeicheldrüsenerkrankungen
