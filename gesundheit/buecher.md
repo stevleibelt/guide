@@ -16,6 +16,7 @@
 * Band 14   -   Wer Diät isst, wird krank
 * Band 17   -   Reine Frauensache
 * Band 18   -   Reine Männersache
+* Band 23   -   Störungen der Schilddrüse
 * Band 25   -   Candia albicans - Pilze, Mykosen, Bakterien
 * Band 30   -   Versöhnung
 * Band x    -   Keine Angst vor Bakterien
@@ -27,7 +28,6 @@
 * Band x    -   Diäten
 * Band x    -   Zucker-Zucker
 * Band x    -   Kopfschmerzen, Migräne und Schlaflosigkeit
-* Band x    -   Störungen der Schilddrüse
 * Band x    -   Cholesterin - Der lebensnotwendige Stoff
 * Band x    -   Der Murks mit der Milch
 * Band x    -   Fasten - aber richtig
