@@ -13,6 +13,7 @@
 * Band 9    -   Biologischer Ratgeber für Mutter und Kind
 * Band 10   -   Diabetes
 * Band 11   -   Allergien müssen nicht sein
+* Band 13   -   Kopfschmerzen, Migräne und Schlaflosigkeit
 * Band 14   -   Wer Diät isst, wird krank
 * Band 17   -   Reine Frauensache
 * Band 18   -   Reine Männersache
@@ -27,7 +28,6 @@
 * Band x    -   Leber-, Galle-, Magen-, Darm- und Bauchspeicheldrüsenerkrankungen
 * Band x    -   Diäten
 * Band x    -   Zucker-Zucker
-* Band x    -   Kopfschmerzen, Migräne und Schlaflosigkeit
 * Band x    -   Cholesterin - Der lebensnotwendige Stoff
 * Band x    -   Der Murks mit der Milch
 * Band x    -   Fasten - aber richtig
