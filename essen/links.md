@@ -1,5 +1,7 @@
 # links
 
+* [Fixe Mixer](https://fixemixer.wordpress.com/) - Vollwertkost aus dem Thermomix
+* [Vollwert](https://vollwert.wordpress.com/) - Vollwertkost aus dem Thermomix (und auch mehr)
 * http://members.yline.com/~naturpur/index.html
 * http://www.goge-schweiz.ch/Wissenschaft_Details.htm
 * http://www.medizin-unwahrheiten.de/die_unterdruckung_der_neuen_ernahrungslehre_.html
