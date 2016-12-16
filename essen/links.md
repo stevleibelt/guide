@@ -9,3 +9,5 @@
 * [Unterschiede von Ölen](http://www.naturata.de/wordpress/speiseole-was-bedeutet-nativ-raffiniert-und-kalt-gepresst/)
 * [powerfoods](http://www.oana.de/power.htm)
 # [messerschmidt getreidemühlen blog](http://messerschmidt-muehlen.de/de/blog/)
+* [Liste von Pflanzenölen](https://de.wikipedia.org/wiki/Kategorie:Pflanzen%C3%B6l)
+* [Liste von traditionellen Lebensmitteln](https://de.wikipedia.org/wiki/Kategorie:Traditionelles_Lebensmittel)
