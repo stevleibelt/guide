@@ -31,3 +31,5 @@ Quelle: Dr. med. M. O. Bruker / Ilse Gutjahr - Wer Diät ißt wird kank - emu Ve
 * [chiropraktor in hamburg](http://www.chiropraxis-hamburg.de/Chiropraktor.htm)
 * [der gesundheitsberater](https://gesundheitsberater.de/)
 * [internet forum über vollwertkost](http://www.gesundheitsforum-mainz-wiesbaden.de/forum/index.php)
+* [Ayurveda](https://de.wikipedia.org/wiki/Ayurveda)
+* [Unani](https://de.wikipedia.org/wiki/Unani)
