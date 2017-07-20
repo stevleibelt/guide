@@ -13,6 +13,7 @@
 * Band 9    -   Biologischer Ratgeber für Mutter und Kind
 * Band 10   -   Diabetes
 * Band 11   -   Allergien müssen nicht sein
+* Band 12   -   Zucker, Zucker - Krank durch Fabrikzucker
 * Band 13   -   Kopfschmerzen, Migräne und Schlaflosigkeit
 * Band 14   -   Wer Diät isst, wird krank
 * Band 17   -   Reine Frauensache
