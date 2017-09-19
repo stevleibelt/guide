@@ -8,6 +8,7 @@
 | Pfefferminze | Tee, oder in kaltes Wasser mit Orange/Zitrone/Limette | Beruhigend und entkrampfend |
 | Salbei | In kaltes Wasser geben (gern mit etwas Limette) | Tonisierenden, krampflösenden, antibakteriell und kühlenden (gegen Schweißbildung) |
 | Zitronenmelisse | Als Tee oder im kalten Wasser | Schmerzstillend, kühlend, antibakteriell und beruhigend |
+| Rosmarin | Als Öl für die Haare und die Gelenke oder als Heilkraut | Konzentrationssteigernd und beruhigend |
 
 
 # Gewürze und ihre Wirkung
@@ -21,3 +22,4 @@
 
 * http://www.kraeuterallerlei.de/kuehlende-kraeuter-gegen-sommerhitze/
 * http://www.kraeuterallerlei.de/kraeuter-und-gewuerze-fuer-eine-schlanke-figur/
+* https://www.careelite.de/10-gesunde-pflanzen-kraeuter
