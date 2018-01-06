@@ -19,6 +19,7 @@
 * Band 17   -   Reine Frauensache
 * Band 18   -   Reine Männersache
 * Band 19   -   Der Murks mit der Milch
+* Band 21   -   Fasten, aber richtig!
 * Band 23   -   Störungen der Schilddrüse
 * Band 25   -   Candia albicans - Pilze, Mykosen, Bakterien
 * Band 30   -   Versöhnung
