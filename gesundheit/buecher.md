@@ -1,5 +1,6 @@
 # M. O. Bruker - Aus der Sprechstunde
 
+* Aufmerksamkeiten: Zitate, Sprüche, Aphorismen, die aufmerksam und nachdenklich machen und motivieren, sind gute Begleiter im Leben 
 * Ärztlicher Rat aus ganzheitlicher Sicht
 * Kleinschriften-Sammelmappe
 * Naturheilkunde
@@ -33,4 +34,3 @@
 * Band x    -   Zucker-Zucker
 * Band x    -   Cholesterin - Der lebensnotwendige Stoff
 * Band x    -   Der Murks mit der Milch
-* Band x    -   Fasten - aber richtig
