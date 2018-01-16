@@ -8,7 +8,7 @@
 
 # Abfluss reinigen
 
-* Soda mit Essig vermischen und in den Abluss einwirken lassen sowie mit kaltem Wasser nachspühlen
+* Soda (4 Esslöffel) mit Essig (halbe Tasse) vermischen und in den Abluss einwirken lassen sowie mit kaltem Wasser nachspühlen
 
 # Backblech und Ofen reinigen
 
