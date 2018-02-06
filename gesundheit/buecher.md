@@ -4,6 +4,7 @@
 * Ärztlicher Rat aus ganzheitlicher Sicht
 * Kleinschriften-Sammelmappe
 * Naturheilkunde
+* Gesund durch richtiges Essen
 * Band 1    -   Unsere Nahrung, unser Schicksal
 * Band 2    -   Lebensbedingte Krankheiten / Krank durch Stress - die lebens- und spannungsbedingten Krankheiten und ihre Heilung
 * Band 3    -   Idealgewicht ohne Hungerkur / Schlank ohne zu hungern durch vitalstoffreiche Ernährung
@@ -34,4 +35,3 @@
 * Band x    -   Diäten
 * Band x    -   Zucker-Zucker
 * Band x    -   Cholesterin - Der lebensnotwendige Stoff
-* Band x    -   Der Murks mit der Milch
