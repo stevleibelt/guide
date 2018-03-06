@@ -1,0 +1,5 @@
+* [Katrin Vogt-Damjanov](http://www.vogt-damjanov.de/)
+* [Diter Schneider](https://www.heilpraktiker-fg.de/)
+* [Ursula Walter](https://www.praxis-dr-ursula-walter.de/)
+* [Liste bei sanego.](https://www.sanego.de/Heilpraktiker/Sachsen/5739-Freiberg/)
+* [Liste bei jameda.](https://www.jameda.de/freiberg/heilpraktiker/gruppe/)
