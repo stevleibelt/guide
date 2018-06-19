@@ -1,3 +1,3 @@
 # link
 
-http://www.gesineadam.de/
+* http://www.gesineadam.de/
