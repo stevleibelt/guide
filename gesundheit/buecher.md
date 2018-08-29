@@ -24,10 +24,10 @@
 * Band 21   -   Fasten, aber richtig!
 * Band 23   -   Störungen der Schilddrüse
 * Band 25   -   Candia albicans - Pilze, Mykosen, Bakterien
+* Band 28   -   Krampfader
 * Band 30   -   Versöhnung
 * Band 43   -   Die Schätze der Kindheit
 * Band x    -   Keine Angst vor Bakterien
-* Band x    -   Krampfader
 * Band x    -   Vorsicht Fluor
 * Band x    -   Osteoporose
 * Band x    -   Rheuma - Ursache und Heilbehandlung
