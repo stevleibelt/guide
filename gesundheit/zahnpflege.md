@@ -42,7 +42,7 @@ Mixt es so, dass es euch schmeckt.
 * 4 Teile Milchzucker (Lactose, wird aus Molke gewonnen.)
 * 1 Teil getrocknete pulverisierte Salbei- und Pfefferminzblätter
 
-# Zutaten
+# Allgemeine Zutaten
 
 * Natron - Gegen Verfärbungen und neutralisiert Säuren
 * Heilerde - Bindet Schwermetalle und viele Giftstoffe, remineralisiert die Zähne
@@ -55,9 +55,25 @@ Mixt es so, dass es euch schmeckt.
 * Zimt - Antibakteriell, entzündungshemmend und schmerzstillend
 * Salbei - Erhellt die Zähne und ist gut für das Zahnfleisch
 
+# Gelbe Zähne
+
+Gelbe Zähne sind ein kosmetisches Problem und müssen nicht behandelt werden.
+Gern wird vom Zahnarzt mit psychologischem Druck gearbeitet um eine "professionelle Zahnreinigung" zu verkaufen.
+
+Gelbe Zähne können genetisch sein, vom Kaffee trinken, Rauchen oder Trauben/Curry/Cucuma/Inger/etc. essen kommen.
+
+Generell gilt, wenn die Zähne aufgehellt werden, wird Zahnschmelz abgetragen. Aus diesem Grund eine Stunde danach nichts Essen/Trinken (außer Leitungswasser) oder Zähneputzen.
+Man kann gelbe Zähne natürlich aufhellen indem man folgendes, maximal einmal in der Woche, macht:
+* ;it Salz putzen
+* Mit Natron putzen
+* Erdbeermus auf die Zähne auftragen und einwirken lassen
+* Den Mund drei Minuten mit Zitronensaft spühlen
+* Den Mund drei bis zehn Minuten mit nativen Öl spühlen
+
 # Links
 
 * http://www.rohtopia.com/zahnpasta/
 * http://www.smarticular.net/zaehne-putzen-mit-kernseife-warum-du-es-probieren-solltest/
 * http://freeofwaste.de/zaehneputzen-mit-zahnpulver/
 * http://www.silkeleopold.de/zahnpulver-und-zahnpasta-mit-kurkuma-herstellen/
+* http://www.ratgebermagazine.de/gelbe-zaehne-hier-helfen-oftmals-einfache-hausmittel-69

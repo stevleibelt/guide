@@ -32,6 +32,4 @@
 * Band x    -   Osteoporose
 * Band x    -   Rheuma - Ursache und Heilbehandlung
 * Band x    -   Leber-, Galle-, Magen-, Darm- und Bauchspeicheldrüsenerkrankungen
-* Band x    -   Diäten
-* Band x    -   Zucker-Zucker
 * Band x    -   Cholesterin - Der lebensnotwendige Stoff
