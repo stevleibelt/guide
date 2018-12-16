@@ -11,6 +11,7 @@ Unterstützt das Abhusten
 * Kalte Halswickel gegen Halsschmerzen
 * [Rettich- oder Schwarzer Rettich-Sirup](http://www.heilkraeuter.de/rezept/rettich-sirup.htm)
 * [Rumex/Mönchsrhabarber/krausen Ampfer als homöopatisches Mittel.](https://de.wikipedia.org/wiki/Ampfer)
+* [Homöopathie Husten.](https://www.homoeopathie-online.info/husten/)
 
 # Räuspern
 
