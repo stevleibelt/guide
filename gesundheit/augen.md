@@ -2,15 +2,15 @@
 
 ## Yogaübung "Kopf- und Halsrollübung"
 
-* zwei bis dreimal pro Tag
-* nimm dir viel Zeit (mach es langsam)
-* sitz aufrecht
-* beuge den Kopf dreimal nach vorn
-* beuge den Kopf dreimal nach hinten
-* beuge den Kopf dreimal nach links
-* beuge den Kopf dreimal nach rechts
-* kreise den Kopf dreimal rechts herum
-* kreise den Kopf dreimal links herum
+* Zwei bis dreimal pro Tag
+* Nimm dir viel Zeit (mach es langsam)
+* Sitz aufrecht
+* Beuge den Kopf dreimal nach vorn
+* Beuge den Kopf dreimal nach hinten
+* Beuge den Kopf dreimal nach links
+* Beuge den Kopf dreimal nach rechts
+* Kreise den Kopf dreimal rechts herum
+* Kreise den Kopf dreimal links herum
 
 ## Augenmuskel-Fasziendehnung
 
@@ -43,6 +43,25 @@
 * Ruhig bei Bedarf Pause zwischen den Übungen machen (Augen schließen und warme Hände drauf legen)
 * Wenigst einen Monat täglich durchführen
 
+### Zeigefingerübung (nach Dr. Bates)
+
+* Sitz aufrecht, halte den Kopf gerade
+* Wiederhole folgendes jeweils zehn Mal (Aktivieren der Muskulatur)
+    * Augen von links nach rechts bewegen
+    * Augen von oben nach unten bewegen
+    * Augen von Links oben nach Rechts unten bewegen
+    * Augen von Rechts oben nach Links unten bewegen
+    * Augen im Uhrzeigersinn kreisen
+    * Augen gegen den Uhrzeigersinn kreisen
+* Einen Arm ausstrecken
+* Zeigefinger strecken und auf Augenhöhe halten
+* Wiederhole folgendes zehn bis 15 Mal
+    * Bewege den Zeigefinger in Richtung Nase so lange bis du deinen Zeigefinger nicht mehr scharf stellen kannst
+* Hände reiben bis sie warm sind
+* Warme Hänge auf die geschlossenen Augen legen
+* Wiederhole die Übung so häufig wie möglich pro Tag
+
 # Links
 
 * [Sehschwäche beheben ohne Brille, Kontaktlinsen und Operation](https://www.youtube.com/watch?v=99WEZ4LnPxo) - SportsGeist Heilbronn - 2017-11-08
+* [Augentraining nach Dr. Bates (Sehkraft verbessern + Augen entspannen](https://www.youtube.com/watch?v=m69C5NJhTbU) - Marvin Gerste - Lerne zu leben - 2018-08-08
