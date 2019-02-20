@@ -1,4 +1,4 @@
-* [Diter Schneiderm  Buchstraße 18, 09599 Freiberg](https://www.heilpraktiker-fg.de/)
+* [Diter Schneiderm  Buchstraße 18, 09599 Freiberg - Telefonnummer: (03731) 33 865](https://www.heilpraktiker-fg.de/)
 * [Katrin Vogt-Damjanov, Kirchgasse 5, 09599 Freiberg](http://www.vogt-damjanov.de/)
 * [Ursula Walter, Straße der Einheit 29, 09599 Freiberg](https://www.praxis-dr-ursula-walter.de/)
 * [Katja Tscherny, Friedeburger Straße 8c](http://osteopathie-freiberg.de)
