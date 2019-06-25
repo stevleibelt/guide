@@ -1,5 +1,7 @@
 # link
 
+## [Entdecke das Erzgebirge.](https://www.erzgebirge-explorer.de/)
+
 ## Mundart
 
 * [Die erzgebirgische Mundart.](http://www.westerzgebirge.com/htm/erzgebirge-sprache.htm)
