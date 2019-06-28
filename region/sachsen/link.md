@@ -7,3 +7,4 @@
     * [sachsen-erkunden.de](https://www.sachsen-erkunden.de/badeseen-sachsen/)
 * Ausflüge in Sachsen
     * [freizeitengel.de - mittelsachsen](https://www.sachsen-erkunden.de/badeseen-sachsen/)
+    * [Die sächsichen Freizeitparks](http://www.saechsische-freizeitparks.de/)
