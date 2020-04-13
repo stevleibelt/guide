@@ -2,6 +2,11 @@
 
 ## [Entdecke das Erzgebirge.](https://www.erzgebirge-explorer.de/)
 
+* [Gimmlitztal](http://www.gimmlitztal.de/) hat viele Wassermühlen und bietet mit seinen Waldabschnitten viel Platz zum Wandern
+    * [Förder- und Naturverein Oberes Gimmlitztal e.V.](https://www.gimmlitztalverein.de/muehlen.php)
+    * [Der Eintrag auf Wikipedia](https://de.wikipedia.org/wiki/Gimmlitztal)) 
+    * [Auf OpenStreetMaps.](https://www.openstreetmap.org/#map=15/50.7778/13.5698)
+
 ## Mundart
 
 * [Die erzgebirgische Mundart.](http://www.westerzgebirge.com/htm/erzgebirge-sprache.htm)
