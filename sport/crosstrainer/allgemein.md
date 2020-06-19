@@ -40,5 +40,7 @@ Probiere die verschiendenen Trainingspläne durch und bleib bei dem, der dir am 
 
 # links
 
-* [Mit dem Crosstrainer abnehmen: so verlierst du schnell Bauchfett]()
-* [Mit dem Crosstrainer abnehmen - 12 Kilogramm in 12 Wochen](https://crosstrainer-experts.de/mit-crosstrainer-abnehmen/) - 2020-06-15
+* [Mit dem Crosstrainer abnehmen: so verlierst du schnell Bauchfett](https://my-crosstrainer.de/crosstrainer-abnehmen/) - 2020-06-15
+* [Crosstrainer: So trainierst du richtig](https://www.fitforfun.de/sport/fitness-studio/crosstrainer-so-trainieren-sie-richtig_aid_6992.html) - 2020-06-15
+* [Wie der Crosstrainer effektiv das Fett verbrennt](https://www.sat1.de/ratgeber/abnehmen/fettverbrennung-stoffwechsel/mit-dem-crosstrainer-abnehmen-schonend-und-effektiv) - 2020-05-15
+* [Abnehmen mit dem Crosstrainer](https://mein-pulsschlag.de/Artikel/Traingsplaene/Abnehmen-mit-dem-Crosstrainer/34) - 2014-12-19
