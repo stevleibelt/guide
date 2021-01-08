@@ -6,4 +6,5 @@
 * [Freiberger Münzfreunde e.V.](http://www.freiberger-muenzfreunde.de) - 20200811
 * [Firmen in Freiberg](http://www.firmendb.de/deutschland/Sachsen_Freiberg.php) - 20190404
 * [Friedrich August Schmiede](www.friedrich-august-schmiede.de/)
+* [Hausgeräte Freiberg / Löschner (in Sayda)](https://www.hausgeraete-freiberg.de/)
 * [Liste der Kulturdenkmale in Freiberg](https://de.wikipedia.org/wiki/Liste_der_Kulturdenkmale_in_Freiberg-Nord) - 20200811
