@@ -4,8 +4,17 @@
 
 * [erzgebirgsverein.de](http://erzgebirgsverein.de/) - 20200811
 
-## [Entdecke das Erzgebirge.](https://www.erzgebirge-explorer.de/)
+## Bergbautradition
 
+* [Bergmusikkorps Saxonia Freiberg e.V.](https://www.bergmusikkorps-freiberg.de) - 20210129
+* [Freiberger Altertumsverein](https://www.freiberger-altertumsverein.de/) - 20210129
+* [Historische Freiberger Berg- und Hüttenknappschaft e.V.](https://hfbhk.de/) - 20210129
+* [Sächsicher Landesverband der Bergmanns-, Hütten- und Knappenverein e.V.](https://knappenverein.de/) - 20210129
+* [Silberbergwerk Freiberg](https://www.silberbergwerk-freiberg.de/) - 20210129
+
+## Entdecke das Erzgebirge
+
+* [Entdecke das Erzgebirge.](https://www.erzgebirge-explorer.de/)
 * [Gimmlitztal](http://www.gimmlitztal.de/) hat viele Wassermühlen und bietet mit seinen Waldabschnitten viel Platz zum Wandern
     * [Förder- und Naturverein Oberes Gimmlitztal e.V.](https://www.gimmlitztalverein.de/muehlen.php)
     * [Der Eintrag auf Wikipedia](https://de.wikipedia.org/wiki/Gimmlitztal)) 
