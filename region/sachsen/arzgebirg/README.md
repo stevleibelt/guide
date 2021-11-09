@@ -3,6 +3,7 @@
 ## Allgemein
 
 * [erzgebirgsverein.de](http://erzgebirgsverein.de/) - 20200811
+* [osterzgebirge.org](https://www.osterzgebirge.org/) - 20211109
 
 ## Bergbautradition
 
