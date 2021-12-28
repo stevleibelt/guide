@@ -19,6 +19,7 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Five Stars
 
 | Campaign | Arena Defense | Arena Offense | Clan Boss | Faction Wars |
+| --- | --- | --- | --- | --- |
 | Elhain | Elhain | Elhain | | Elhain |
 | Ursala the Mourner | Ursala the Mourner | Ursala the Mourner | Ursala the Mourner | Ursala the Mourner |
 | | | | | Shaman |
@@ -28,6 +29,7 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Four Stars
 
 | Campaign | Arena Defense | Arena Offense | Clan Boss | Faction Wars |
+| --- | --- | --- | --- | --- |
 | Geargrinder | | | | |
 | Banshee | | Banshee | | Banshee |
 | | | | | |
@@ -37,12 +39,14 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Five Stars
 
 | Minotaur | Spider | Fire Knight | Dragon | Ice Golem |
+| --- | --- | --- | --- | --- |
 | Ursala the Mourner | | | Ursala the Mourner | Ursala the Mourner |
 | | | | | |
 
 ### Four Stars
 
 | Minotaur | Spider | Fire Knight | Dragon | Ice Golem |
+| --- | --- | --- | --- | --- |
 | Elhain | Elhain | | Elhain | Elhain |
 | | Ursala the Mourner | Ursala the Mourner | | |
 | Shaman | | | | |
@@ -54,6 +58,7 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Five Stars
 
 | Arcane Keep | Void Keep | Force Keep | Spirit Keep | Magic Keep |
+| --- | --- | --- | --- | --- |
 | | Ursala the Mourner | | | |
 | | | | | Banshee |
 | | | | | |
@@ -61,6 +66,7 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Four Stars
 
 | Arcane Keep | Void Keep | Force Keep | Spirit Keep | Magic Keep |
+| --- | --- | --- | --- | --- |
 | Elhain | Elhain | | Elhain | Elhain |
 | | | Ursala the Mourner | Ursala the Mourner | Ursala the Mourner | 
 | Geargrinder | Geargrinder | Geargrinder | Geargrinder | Geargrinder |
@@ -72,6 +78,7 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Five Stars
 
 | Floors | Magma Dragon | Neather Spider | Frost Spider | Scarab King | Celestial Griffin | Eternal Dragon | Dreadhorn | Dark Fae |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Elhain | | | | | | | | |
 | Geargrinder | | | | | | | | |
 | | | | | | | | | |
@@ -79,5 +86,6 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 ### Four Stars
 
 | Floors | Magma Dragon | Neather Spider | Frost Spider | Scarab King | Celestial Griffin | Eternal Dragon | Dreadhorn | Dark Fae |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | Geargrinder | | Geargrinder | | | | | |
 | | | | | | | | | |
