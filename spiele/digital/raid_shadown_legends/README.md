@@ -6,6 +6,12 @@ In general, `common` and `uncommon` champions are only food.
 
 Try to keep your gems to build up your gem mine first, followed market and by the guardien ring training slots.
 
+Best place to farm is brutal 12-3.
+
+Only upgrade epic or legendary gears. Upgrade all to 8 if you use it.
+
+Only use gems if you need to finish a task or if there is a special gem event going on, else it is a waste.
+
 # Where to use which champion
 
 Only five or four stars are listed here.
@@ -89,3 +95,8 @@ All champions that are not worth the effort are listed [here](champions/not_wort
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | Geargrinder | | Geargrinder | | | | | |
 | | | | | | | | | |
+
+# Links
+
+* [Hellhades - Essential tips for starting in Raid: Shadow Legends](https://hellhades.com/essential-tips-for-starting-in-raid-shadow-legends/) - 20220106
+* [
