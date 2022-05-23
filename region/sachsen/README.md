@@ -5,6 +5,7 @@
     * [Die sächsichen Freizeitparks](http://www.saechsische-freizeitparks.de/)
 * Badeseen in Sachsen
     * [sachsen-erkunden.de](https://www.sachsen-erkunden.de/badeseen-sachsen/)
+* [Chemnitz für Familien und Kinder](https://chemnitz-tourismus.de/de/in-chemnitz-zu-gast/freizeit-erholung/chemnitz-fuer-familien-und-kinder/) - 20220523T09:26:20
 * [Dampfbahn-Route](https://www.dampfbahn-route.de/) - Allgemeine Übersichtsseite der Dampfbahnen in Sachsen
 * [Montanregion Erzgebrige](https://www.montanregion-erzgebirge.de/)
 * [Sächsischer Mühlenverein](http://www.milldatabase.org/unions/32)
