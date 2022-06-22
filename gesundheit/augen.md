@@ -1,6 +1,30 @@
 # Augentraining
 
-## Yogaübung "Kopf- und Halsrollübung"
+## Symptome
+
+* Augen brennen
+* Augen werden immer schlechter
+
+## Ursachen
+
+* Ruhende Augen da sich der Kopf und die Betrachtungsobjekte wenig ändern
+  * Bildschirm (stetig gleiche Entfernung)
+  * In Städten fehlt der Blick in die Weite
+  * Konstante Lichtsituationen
+* Feststehende Muskeln erzeugen
+  * Mangelernährung (fehlende An- und Entspannung der Muskeln)
+  * Verspannungen im Muskel
+* Stress im Alltag
+
+## Übungen
+
+### Beim Kinogang
+
+* Lieber die billigen Sitze weit vorne nutzen
+  * Die Augen und die Nackenmuskeln werden bewegt
+  * Permanente Einstellung der Sehschärfe
+
+### Yogaübung "Kopf- und Halsrollübung"
 
 * Zwei bis dreimal pro Tag
 * Nimm dir viel Zeit (mach es langsam)
@@ -12,9 +36,9 @@
 * Kreise den Kopf dreimal rechts herum
 * Kreise den Kopf dreimal links herum
 
-## Augenmuskel-Fasziendehnung
+### Augenmuskel-Fasziendehnung
 
-### Allgemeine Übung gegen Kurzsichtigkeit
+#### Allgemeine Übung gegen Kurzsichtigkeit
 
 * Einen Arm ausstrecken
 * Daumen nach oben strecken und auf Augenhöhe halten
@@ -22,7 +46,7 @@
 * Aus dem Fenster in die Ferne schauen
 * zehn bis 15 mal Wiederholen
 
-### Routineübung
+#### Routineübung
 
 * Drei mal am Tag für jeweils 20 Minuten
 * Augen entspannen und schließen
@@ -61,7 +85,13 @@
 * Warme Hänge auf die geschlossenen Augen legen
 * Wiederhole die Übung so häufig wie möglich pro Tag
 
-# Links
+## Weiteres
+
+* Niemals abends und gestresst zum Optiker gehen
+
+## Links
 
 * [Sehschwäche beheben ohne Brille, Kontaktlinsen und Operation](https://www.youtube.com/watch?v=99WEZ4LnPxo) - SportsGeist Heilbronn - 2017-11-08
 * [Augentraining nach Dr. Bates (Sehkraft verbessern + Augen entspannen](https://www.youtube.com/watch?v=m69C5NJhTbU) - Marvin Gerste - Lerne zu leben - 2018-08-08
+* [DAMIT machst du deine Augen kaputt (Ohne es zu merken!)](https://www.youtube.com/watch?v=UcyibgRWTuw) - 20220615T11:53:00
+
