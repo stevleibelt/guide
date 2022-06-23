@@ -6,17 +6,17 @@ Quelle: [7 Schritte zur Finanziellen Freiheit - The Total Money Makeover / Dave 
 
 * 1000 Euro in bar sparen
 * An einem sicheren Ort lagern
-* Idee: Erhöht die innere Sicherheit, dass man für den Notfall immer Geld schnell verfügbar hat
+* **Idee**: Erhöht die innere Sicherheit, dass man für den Notfall immer Geld schnell verfügbar hat
 
 ## Schuldenfrei sein (dauert zwischen Monate bis zwei Jahre)
 
 * Sie sind kein Staat oder Unternehmen, eine Verschuldung hilft ihnen nicht zu einem Wachstum
 * Wenn Sie es sich nicht leisten können, kaufen Sie es nicht!
 * Keine Kreditkarte nutzen, bar zahlen
-* Idee: Man sieht das Geld und muss es von der Bank holen. Das Ausgeben des Geldes wird deutlich spürbar
+* **Idee**: Man sieht das Geld und muss es von der Bank holen. Das Ausgeben des Geldes wird deutlich spürbar
 * Kredite und Kreditkarten sind nur für die Bank gut
 * Schreib all deine Schulden auf
-* Idee: Zahlen Sie für das, was Sie in der Gegenwart wollen und hören Sie auf, für die Vergangeheit zu zahlen (mach keine Kredite)
+* **Idee**: Zahlen Sie für das, was Sie in der Gegenwart wollen und hören Sie auf, für die Vergangeheit zu zahlen (mach keine Schulden)
 * Nehm ein Stück Papier und alle Unterlagen der Schulden und füllen Sie nachfolgende Tabelle mit der Ordnung "kleinste Schulden am Anfang, größte Schulden zum Schluss"
 
 | Schuldgegenstand | Gesamtsumme der Rückzahlung in Euro (ohne Zinsen) | Mindestzahlung |
@@ -39,7 +39,7 @@ Quelle: [7 Schritte zur Finanziellen Freiheit - The Total Money Makeover / Dave 
 * Wenn möglich, bringen Sie vorübergehend ein Opfer durch ein Teilzeitjob oder bezahlte Überstunden
 * "No Go" sind das Haus in dem Sie wohnen und Familienerbstücke
   * "No Go" im Sinne von, es muss sehr triftige Gründe dafür geben
-* Idee: Sie wollen mehr als der Durschnitt. Sie haben nicht mehr das Bedürfnis um den "Schein zu bewahren" (Dinge zu kaufen, die wir nicht brauchen um Menschen zu beeindrucken die wir nicht mögen)
+* **Idee**: Sie wollen mehr als der Durschnitt. Sie haben nicht mehr das Bedürfnis um den "Schein zu bewahren" (Dinge zu kaufen, die wir nicht brauchen um Menschen zu beeindrucken die wir nicht mögen)
 
 ## Vollständiger Notfallfond
 
@@ -49,8 +49,8 @@ Quelle: [7 Schritte zur Finanziellen Freiheit - The Total Money Makeover / Dave 
   * Desto stabiler das Einkommen ist, desto geringer die Menge
   * Der Fond wird für Notfälle genommen die Sie nicht beeinflussen können
     * Krankheit
-	* Arbeitslos
-	* Schaden am Haus
+    * Arbeitslos
+    * Schaden am Haus
 
 ## In die Zukunft investieren
 
