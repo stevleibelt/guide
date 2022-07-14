@@ -4,6 +4,7 @@
 
 * [Wie lange ist die Lebensdauer einer Wärmepumpe ?](https://www.youtube.com/watch?v=HGs5jyWiq2o) - 20220714T13:17:40
 * [3x mehr Energie speichern als in einer Batterie- geht das ?](https://www.youtube.com/watch?v=CukTgZJaQ14) - 20220714T13:34:20
+* [5 Fehler bei Wärmepumpen, die Sie besser vermeiden sollten](https://www.youtube.com/watch?v=wTI54ko0LJQ) - 20220714T14:20:50
 
 ## Kompressor
 
@@ -23,6 +24,18 @@
 * Ein Pufferspeicher hilft, dass die Wärmepumpe länger durchläuft und länger "Pause" machen kann
 * Inverter Wärmepumpe werden 15 bis 20 Jahre halten
 * Einstufige Wärmepumpe werden 20 bis 25 Jahre halten
+
+## Einzelraumregelung
+
+* Ist die Temperatur in einem Raum erreicht, sperrt das Ventil diesen Kreis ab
+  * Dadurch wird effektiv die Wassermenge und auch die Heizungsfläche reduziert
+  * Die Wärmepumpe möchte immer den gleichen Wasserstrom durch die Leitungen pumpen
+  * Die Schaltintervalle nehmen zu, wodurch der Verschleiß erhöht wird
+* Vermeidung
+  * Pufferspeicher
+  * Nur die Räume mit Einzelraumregelung nutzen, bei denen andere Temperaturen gewünscht sind
+    * Schlafzimmer der Eltern
+    * Räume mit vielen Fenstern und/oder Kamin
 
 ## Speicheralternative zu Akku
 
