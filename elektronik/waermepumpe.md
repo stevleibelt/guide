@@ -36,6 +36,11 @@
   * Nur die Räume mit Einzelraumregelung nutzen, bei denen andere Temperaturen gewünscht sind
     * Schlafzimmer der Eltern
     * Räume mit vielen Fenstern und/oder Kamin
+ 
+## Nachtabsenkung deaktivieren
+
+* Die "eingesparte" Energie während der Nacht muss während des Tages nachgeholt werden
+* Schlimmer wird dies, wenn man einen Wärmepumpentarif mit Unterbrechungszeiten nutzt
 
 ## Speicheralternative zu Akku
 
