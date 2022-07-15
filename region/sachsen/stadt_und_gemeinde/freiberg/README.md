@@ -9,3 +9,4 @@
 * [Hausgeräte Freiberg / Löschner (in Sayda)](https://www.hausgeraete-freiberg.de/)
 * [Liste der Kulturdenkmale in Freiberg](https://de.wikipedia.org/wiki/Liste_der_Kulturdenkmale_in_Freiberg-Nord) - 20200811
 * [Regionalverband der Gartenfreunde Freiberg e.V.](https://gartenverband-freiberg.de/) - 20220711T06:31:00
+* [Schrotthexe](https://schrotthexe.de/) - 20220715T11:41:20
