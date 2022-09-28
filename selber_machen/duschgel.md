@@ -1,6 +1,6 @@
 # Duschgel selber machen
 
-# Zutaten
+## Zutaten
 
 * 20 bis 80 gr Kernseife
 * 400 ml Wasser
@@ -10,9 +10,9 @@
 * Alter Kräuterteebeutel - optional
 * Glycerin - optional (Feuchtigkeitsspendend)
 
-# Zubereitung
+## Zubereitung
 
-## Per Hand
+### Per Hand
 
 * Wasser in ein Topf geben
 * Kernseife in kleine Stücke raspeln oder schneiden
@@ -24,7 +24,7 @@
 * Wird das Duschgel zu flüssig, kann man unter erneuten Erwärmen das Andickmittel zugeben
 * Wird das Duschgel zu fest, kann man unter erneuten Erwärmen Wasser zugeben
 
-## Per Thermomix
+### Per Thermomix
 
 * Stück Kernseife abschneiden (geht mit einem Brotmesser gut)
 * Optional alten Kräuterteebeutel zugeben
@@ -37,7 +37,8 @@
 * Wird das Duschgel zu flüssig, kann man unter erneuten Erwärmen das Andickmittel zugeben
 * Wird das Duschgel zu fest, kann man unter erneuten Erwärmen Wasser zugeben
 
-# Link
+## Link
 
 * https://www.smarticular.net/natuerliches-und-gesundes-duschgel-preiswert-selbermachen/
 * https://www.talu.de/duschgel-selber-machen/
+

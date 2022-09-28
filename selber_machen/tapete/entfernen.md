@@ -13,3 +13,4 @@
 * Ist die Bahn nicht leicht abzuziehen, bitte erneut befeuchten
 * Man kann die Bahn auch langsam von unten nach oben zeihen, macht das was euch am besten liegt
 * Wenn alle Tapetenbahnen entfernt wurden, die Wand unbedingt trocken lassen
+

@@ -1,15 +1,15 @@
 # Spühlmittel selber machen
 
-# Mit Seife
+## Mit Seife
 
-## Zutaten
+### Zutaten
 
 * 25 gr Pflanzenseife
 * 2 TL Natron
 * 500 ml Wasser
 * Optional 10 Tropfen ätherisches Öl
 
-## Zubereitung
+### Zubereitung
 
 * Wasser zum kochen bringen
 * Pflanzenseife reiben und zum Wasser geben
@@ -17,19 +17,19 @@
 * Natron dazugeben
 * Hitze ausschalten und ein bis zwei Minuten nachrühren
 
-## Anwendung
+### Anwendung
 
 * Längere Einwirkungszeit (da keine Chemie)
 * Wenig Schaumbildung
 
-# Mit Efeu
+## Mit Efeu
 
-## Zutaten
+### Zutaten
 
 * 20 Efeublätter
 * 500 ml Wasser
 
-## Zubereitung
+### Zubereitung
 
 * Wasser zum kochen bringen
 * Efeublätter zerkleiner und zugeben
@@ -37,16 +37,16 @@
 * In ein Glas geben und fünf Stunden ruhen lassen
 * Einmal kräftig schütteln und nutzen
 
-# Mit Zitrone
+## Mit Zitrone
 
-## Zutaten
+### Zutaten
 
 * 3 Zitronen
 * 100 ml Apfelessig
 * 200 gr Meersalz
 * 400 ml Wasser
 
-## Zubereitung
+### Zubereitung
 
 * Zitrone in Mixer pürieren
 * Salz dazugeben und weiter mixen
@@ -54,6 +54,7 @@
 * Gemisch zum kochen bringen und fünf bis zehn Minuten kochen lassen
 * Gemisch sieben
 
-# Link
+## Link
 
 * https://www.careelite.de/spuelmittel-selber-machen
+
