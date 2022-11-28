@@ -20,6 +20,8 @@
 
 ## Soleus Pushup
 
+Der Soleus Pushup hilft bei mir auch gegen ewig andauernde Wadenkrämpfe/Wadenverhärtung die ich mit einer Faszienrolle nie ausgerollt bekommen habe.
+
 ### Übungsanleitung für den Soleus Pushup
 
 * Sitze auf einem Stuhl
