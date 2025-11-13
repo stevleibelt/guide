@@ -1,4 +1,4 @@
-# Erziehungs- und Beratungsstellen
+# Erziehungs- und Beratungsstellen in Freiberg (Sachsen)
 
 ## AWO KV Freiberg e.V.
 
