@@ -28,13 +28,15 @@
 
 ## Schwibbögen
 
-* [erzhuette.de](https://www.erzhuette.de/schwibbogen.html)
-* [webshop-erzgebirge.de](https://www.webshop-erzgebirge.de/schwibbogen/schwibbogen.html)
-* [schwibbogenfabrik.de](https://www.schwibbogenfabrik.de/produkt/erzgebirge-schwibbogen-mit-wunschnamen-und-wohnort/)
-* [kunstguss-doehler.de](https://www.kunstguss-doehler.de/)
+* [ac-holzkunst.de](https://www.ac-holzkunst.de/) - 20251217
+* [barthel-zinn.com](http://www.barthel-zinn.com/produkt-zinn-schwibboegen.html)
 * [erzgebirge-palast.de](https://www.erzgebirge-palast.de/Schwibboegen:::108.html)
 * [erzgebirgskunst-drechsel.de](https://www.erzgebirgskunst-drechsel.de/)
-* [barthel-zinn.com](http://www.barthel-zinn.com/produkt-zinn-schwibboegen.html)
+* [erzhuette.de](https://www.erzhuette.de/schwibbogen.html)
+* [kunstguss-doehler.de](https://www.kunstguss-doehler.de/)
+* [pyramidenzubehoer.de](https://pyramidenzubehoer.de/Produkte/Vorlagen/Vorlagen-fuer-Schwibbogen/) - 20251217
+* [schwibbogenfabrik.de](https://www.schwibbogenfabrik.de/produkt/erzgebirge-schwibbogen-mit-wunschnamen-und-wohnort/)
+* [webshop-erzgebirge.de](https://www.webshop-erzgebirge.de/schwibbogen/schwibbogen.html)
 
 ## Wanderungen
 
